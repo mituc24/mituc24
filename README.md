@@ -1,4 +1,4 @@
-<img width="654" height="611" alt="image" src="https://github.com/user-attachments/assets/577ccc87-f292-4e56-8a42-9f9b8f5fffda" /># 👋 Hi, I'm Nguyen Minh Truc
+# 👋 Hi, I'm Nguyen Minh Truc
 
 📍 Thu Duc, Ho Chi Minh City, Vietnam  
 📧 minhtrucnguyen0709@gmail.com  
